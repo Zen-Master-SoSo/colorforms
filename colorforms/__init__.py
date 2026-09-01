@@ -21,7 +21,7 @@
 Convert colors from one format to another.
 """
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 
 
 #  end colorforms/__init__.py
